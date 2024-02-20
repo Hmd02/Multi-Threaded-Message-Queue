@@ -6,11 +6,13 @@ This repository contains a Python script implementing a custom priority queue wi
 
 To use the script, follow these steps:
 
-1. **Clone the Repository:** ```bash git clone https://github.com/Hmd02/Multi-Threaded-Message-Queue.git
+1. **Clone the Repository:**
+2. ```bash
+   git clone https://github.com/Hmd02/Multi-Threaded-Message-Queue.git
 
-2. **Navigate to the Directory:**
-
-3. **Run the Script:**
+3. **Navigate to the Directory:**
+   
+4. **Run the Script:**
 
 This command will execute the Python script, which demonstrates the functionality of the custom priority queue with multiple threads.
 

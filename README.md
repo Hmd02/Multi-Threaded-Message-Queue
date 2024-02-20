@@ -9,10 +9,16 @@ To use the script, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Hmd02/Multi-Threaded-Message-Queue.git
+   
+2.**Open Terminal in Current directory**
 
-2. **Navigate to the Directory:**
+3. **Navigate to the Directory:**
+   ```bash
+   cd Multi-Threaded-Message-Queue
    
 3. **Run the Script:**
+   ```bash
+   python multiThread.py
 
 This command will execute the Python script, which demonstrates the functionality of the custom priority queue with multiple threads.
 
@@ -28,6 +34,3 @@ The script provides a simple demonstration of sending and receiving messages bet
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

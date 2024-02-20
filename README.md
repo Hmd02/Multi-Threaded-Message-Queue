@@ -9,8 +9,8 @@ To use the script, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Hmd02/Multi-Threaded-Message-Queue.git
-   
-2.**Open Terminal in Current directory:**
+
+2. **Open Terminal in Current directory:**
 
 3. **Navigate to the Directory:**
    ```bash

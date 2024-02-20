@@ -10,13 +10,13 @@ To use the script, follow these steps:
    ```bash
    git clone https://github.com/Hmd02/Multi-Threaded-Message-Queue.git
    
-2.**Open Terminal in Current directory**
+2.**Open Terminal in Current directory:**
 
 3. **Navigate to the Directory:**
    ```bash
    cd Multi-Threaded-Message-Queue
    
-3. **Run the Script:**
+4. **Run the Script:**
    ```bash
    python multiThread.py
 
